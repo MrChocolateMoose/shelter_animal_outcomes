@@ -1,0 +1,514 @@
+Weight in Lbs
+
+http://dogtime.com/dog-breeds
+
+Height in Inches
+
+
+
+Breed,             MinWeightMale,  MinWeightFemale, |,  MaxWeightMale,  MaxWeightFemale,   MinHeightMale,   MinHeightFemale, MaxHeight, MinLifeYrs, MaxLifeYrs,   Popularity,   Group,    Size,   Energy,   CostMin, CostMax, HypoAllergenic,  REFERENCE
+
+Affenpinscher,      6.5,            Nan,            |,  13.2,           Nan,                9,              Nan,                      12,          11,         14,           141,          Toy,      Small,  Medium,   300,     500,     Yes,            ["http://en.wikipedia.org/wiki/Affenpinscher" "http://www.dogbreedslist.info/all-dog-breeds/affenpinscher.html"]
+
+Afghan Hound,       50.71,          44.09,          |,  74.96,          74.96,
+
+
+
+
+104,          Hound,    Large,  High,     ?,        ?,      ["http://en.wikipedia.org/wiki/Afghan_Hound" "http://www.akc.org/dog-breeds/afghan-hound/"]
+
+
+URL,                                              WEIGHT_MAX, BREED, WEIGHT_MIN
+"http://en.wikipedia.org/wiki/Aidi"                     lb,   55.0,       Aidi
+"http://en.wikipedia.org/wiki/Airedale_Terrier",        kg,   30.0,       Airedale Terrier, 25.0
+"http://en.wikipedia.org/wiki/Akbash_Dog",              kg, 64.0,         Akbash Dog, 41.0
+"http://en.wikipedia.org/wiki/Akita_Inu",               kg, 59.0,         Akita, 45.0
+"http://en.wikipedia.org/wiki/Alano_Espa%C3%B1ol",          kg, 40.0,              Alano Espa\u00f1ol, 34.0
+"http://en.wikipedia.org/wiki/Alapaha_Blue_Blood_Bulldog",  kg, 41.0, Alapaha Blue Blood Bulldog, 32.0
+"http://en.wikipedia.org/wiki/Alaskan_Klee_Kai", Alaskan Klee Kai"
+"http://en.wikipedia.org/wiki/Alaskan_Malamute, lb, 75.0, Alaskan Malamute"
+"http://en.wikipedia.org/wiki/Alpine_Dachsbracke", kg, 18.0, Alpine Dachsbracke, 15.0
+"http://en.wikipedia.org/wiki/Alpine_Spaniel", Alpine Spaniel"
+"http://en.wikipedia.org/wiki/American_Akita", kg, 59.0, Akita, 45.0
+"http://en.wikipedia.org/wiki/American_Alsatian", kg, 54.0, American Alsatian, 36.0
+"http://en.wikipedia.org/wiki/American_Bulldog", kg, 58.0, American Bulldog, 30.0
+"http://en.wikipedia.org/wiki/American_Bully", American Bully"
+"http://en.wikipedia.org/wiki/American_Cocker_Spaniel", kg, 14.0, American Cocker Spaniel, 11.0
+"http://en.wikipedia.org/wiki/American_Eskimo_Dog", American Eskimo Dog"
+"http://en.wikipedia.org/wiki/American_Foxhound", kg, 34.0, American Foxhound, 29.0
+"http://en.wikipedia.org/wiki/American_Hairless_Terrier", kg, 7.0, American Hairless Terrier, 2.5
+"http://en.wikipedia.org/wiki/American_Mastiff", kg, 91.0, American Mastiff, 73.0
+"http://en.wikipedia.org/wiki/American_Pit_Bull_Terrier", kg, 41.0, American Pit Bull Terrier, 14.0
+"http://en.wikipedia.org/wiki/American_Staffordshire_Terrier", American Staffordshire Terrier"
+"http://en.wikipedia.org/wiki/American_Water_Spaniel", kg, 18.0, American Water Spaniel, 11.0
+"http://en.wikipedia.org/wiki/Anatolian_Shepherd_Dog", kg, 68.0, Anatolian Shepherd Dog, 41.0
+"http://en.wikipedia.org/wiki/Anglo-Fran%C3%A7ais_de_Petite_V%C3%A9nerie", Anglo-Fran\u00e7ais de Petite V\u00e9nerie"
+"http://en.wikipedia.org/wiki/Antebellum_Bulldog", kg, 68.0, Antebellum Bulldog, 36.0
+"http://en.wikipedia.org/wiki/Appenzeller_Sennenhund", kg, 32.0, Appenzeller Sennenhund, 22.0
+"http://en.wikipedia.org/wiki/Argentine_Dogo, lb, 100.0, Dogo Argentino, 80.0
+"http://en.wikipedia.org/wiki/Ariegeois", kg, 30.0, Ariegeois, 28.0
+"http://en.wikipedia.org/wiki/Ariege_Pointer", Ariege Pointer"
+"http://en.wikipedia.org/wiki/Armant_(dog)", kg, 29.0, Armant, 23.0
+"http://en.wikipedia.org/wiki/Armenian_Gampr_dog", kg, 60.0, Armenian Gampr dog, 45.0
+"http://en.wikipedia.org/wiki/Artois_Hound, lb, 65.0, Artois Hound, 55.0
+"http://en.wikipedia.org/wiki/Australian_Bulldog", kg, 35.0, Australian Bulldog, 28.0
+"http://en.wikipedia.org/wiki/Australian_Cattle_Dog", kg, 28.0, Australian Cattle Dog, 20.0
+"http://en.wikipedia.org/wiki/Australian_Kelpie", kg, 21.0, Australian Kelpie, 14.0
+"http://en.wikipedia.org/wiki/Australian_Shepherd", kg, 29.0, Australian Shepherd, 23.0
+"http://en.wikipedia.org/wiki/Australian_Silky_Terrier", Australian Silky Terrier"
+"http://en.wikipedia.org/wiki/Australian_Stumpy_Tail_Cattle_Dog", Australian Stumpy Tail Cattle Dog"
+"http://en.wikipedia.org/wiki/Australian_Terrier", kg, 6.5, Australian Terrier"
+"http://en.wikipedia.org/wiki/Austrian_Black_and_Tan_Hound", Austrian Black and Tan Hound"
+"http://en.wikipedia.org/wiki/Austrian_Pinscher", Austrian Pinscher"
+"http://en.wikipedia.org/wiki/Azawakh", kg, 25.0, Azawakh, 15.0
+"http://en.wikipedia.org/wiki/Bakharwal_Dog", Bakharwal Dog"
+"http://en.wikipedia.org/wiki/Barbet_(dog)", kg, 27.0, Barbet, 18.0
+"http://en.wikipedia.org/wiki/Basenji, lb, 24.0, Basenji"
+"http://en.wikipedia.org/wiki/Basque_Shepherd_Dog", Basque Shepherd Dog"
+"http://en.wikipedia.org/wiki/Basset_Art%C3%A9sien_Normand", kg, 17.0, Basset Art\u00e9sien Normand, 8.0
+"http://en.wikipedia.org/wiki/Basset_Bleu_de_Gascogne", kg, 18.0, Basset Bleu de Gascogne, 16.0
+"http://en.wikipedia.org/wiki/Basset_Fauve_de_Bretagne, lb, 40.0, Basset Fauve de Bretagne, 36.0
+"http://en.wikipedia.org/wiki/Basset_Hound", kg, 34.0, Basset Hound, 25.0
+"http://en.wikipedia.org/wiki/Bavarian_Mountain_Hound", kg, 25.0, Bavarian Mountain Hound, 20.0
+"http://en.wikipedia.org/wiki/Beagle-Harrier", kg, 21.0, Beagle-Harrier, 19.0
+"http://en.wikipedia.org/wiki/Beagle", kg, 11.0, Beagle, 10.0
+"http://en.wikipedia.org/wiki/Bearded_Collie", kg, 27.0, Bearded Collie, 18.0
+"http://en.wikipedia.org/wiki/Beauceron", kg, 45.0, Beauceron, 32.0
+"http://en.wikipedia.org/wiki/Bedlington_Terrier", Bedlington Terrier"
+"http://en.wikipedia.org/wiki/Belgian_Shepherd_Dog_(Groenendael)", kg, 30.0, Belgian Shepherd Dog (Groenendael), 25.0
+"http://en.wikipedia.org/wiki/Belgian_Shepherd_Dog_(Laekenois)", Belgian Shepherd Dog (Laekenois)"
+"http://en.wikipedia.org/wiki/Belgian_Shepherd_Dog_(Malinois)", kg, 30.0, Belgian Shepherd Dog (Malinois), 25.0
+"http://en.wikipedia.org/wiki/Belgian_Shepherd_(Tervuren)", Belgian Shepherd Dog (Tervuren)"
+"http://en.wikipedia.org/wiki/Bergamasco_Shepherd", Bergamasco Shepherd"
+"http://en.wikipedia.org/wiki/Berger_Blanc_Suisse", kg, 40.0, Berger Blanc Suisse, 30.0
+"http://en.wikipedia.org/wiki/Berger_Picard", kg, 32.0, Berger Picard, 23.0
+"http://en.wikipedia.org/wiki/Berner_Laufhund", Berner Laufhund"
+"http://en.wikipedia.org/wiki/Bernese_Mountain_Dog", kg, 55.0, Bernese Mountain Dog, 40.0
+"http://en.wikipedia.org/wiki/Bichon_Fris%C3%A9", kg, 10.0, Bichon Frise, 5.0
+"http://en.wikipedia.org/wiki/Billy_(dog)", Billy"
+"http://en.wikipedia.org/wiki/Bisben", Bisben"
+"http://en.wikipedia.org/wiki/Black_and_Tan_Coonhound", kg, 59.0, Black and Tan Coonhound, 29.0
+"http://en.wikipedia.org/wiki/Black_and_Tan_Virginia_Foxhound", Black and Tan Virginia Foxhound"
+"http://en.wikipedia.org/wiki/Blackmouth_Cur", kg, 43.0, Blackmouth Cur, 20.0
+"http://en.wikipedia.org/wiki/Black_Norwegian_Elkhound", kg, 18.0, Black Norwegian Elkhound"
+"http://en.wikipedia.org/wiki/Black_Russian_Terrier", kg, 60.0, Black Russian Terrier, 50.0
+"http://en.wikipedia.org/wiki/Bloodhound", kg, 50.0, Bloodhound, 33.0
+"http://en.wikipedia.org/wiki/Blue_Lacy", kg, 20.0, Blue Lacy, 11.0
+"http://en.wikipedia.org/wiki/Blue_Paul_Terrier", kg, 20.0, Blue Paul Terrier"
+"http://en.wikipedia.org/wiki/Bluetick_Coonhound, lb, 80.0, Bluetick Coonhound, 55.0
+"http://en.wikipedia.org/wiki/Boerboel", kg, 80.0, Boerboel, 50.0
+"http://en.wikipedia.org/wiki/Bohemian_Shepherd, lb, 55.0, Bohemian Shepherd, 35.0
+"http://en.wikipedia.org/wiki/Bolognese_(dog)", kg, 5.0, Bolognese, 4.0
+"http://en.wikipedia.org/wiki/Border_Collie, lb, 45.0, Border Collie, 30.0
+"http://en.wikipedia.org/wiki/Border_Terrier", kg, 7.0, Border Terrier, 5.9
+"http://en.wikipedia.org/wiki/Borzoi, lb, 100.0, Borzoi"
+"http://en.wikipedia.org/wiki/Bosnian_Coarse-haired_Hound", Bosnian Coarse-haired Hound"
+"http://en.wikipedia.org/wiki/Boston_Terrier, lb, 29.7, Boston Terrier, 6.0
+"http://en.wikipedia.org/wiki/Bouvier_des_Ardennes, lb, 65.0, Bouvier des Ardennes, 55.0
+"http://en.wikipedia.org/wiki/Bouvier_des_Flandres", kg, 54.0, Bouvier des Flandres, 36.0
+"http://en.wikipedia.org/wiki/Boxer_(dog)", kg, 32.0, Boxer, 30.0
+"http://en.wikipedia.org/wiki/Boykin_Spaniel", kg, 18.2, Boykin Spaniel, 13.6
+"http://en.wikipedia.org/wiki/Bracco_Italiano", kg, 40.0, Bracco Italiano, 25.0
+"http://en.wikipedia.org/wiki/Braque_d%27Auvergne", Braque d'Auvergne"
+"http://en.wikipedia.org/wiki/Braque_du_Bourbonnais", Braque du Bourbonnais"
+"http://en.wikipedia.org/wiki/Braque_du_Puy", Braque du Puy"
+"http://en.wikipedia.org/wiki/Braque_Francais", Braque Francais"
+"http://en.wikipedia.org/wiki/Braque_Saint-Germain", Braque Saint-Germain"
+"http://en.wikipedia.org/wiki/Brazilian_Terrier", kg, 9.0, Brazilian Terrier, 6.5
+"http://en.wikipedia.org/wiki/Briard", Briard"
+"http://en.wikipedia.org/wiki/Briquet_Griffon_Vend%C3%A9en, lb, 53.0, Briquet Griffon Vend\u00e9en, 48.0
+"http://en.wikipedia.org/wiki/Brittany_(dog)", kg, 24.9, Brittany, 15.8
+"http://en.wikipedia.org/wiki/Broholmer", kg, 59.0, Broholmer, 41.0
+"http://en.wikipedia.org/wiki/Bruno_Jura_Hound", kg, 20.0, Bruno Jura Hound, 15.5
+"http://en.wikipedia.org/wiki/Bucovina_Shepherd_Dog", Bucovina Shepherd Dog"
+"http://en.wikipedia.org/wiki/Bull_and_Terrier, lb, 26.0, Bull and Terrier"
+"http://en.wikipedia.org/wiki/Bulldog_Campeiro", kg, 45.0, Bulldog Campeiro, 35.0
+"http://en.wikipedia.org/wiki/Bulldog, lb, 60.0, Bulldog, 55.0
+"http://en.wikipedia.org/wiki/Bullenbeisser", Bullenbeisser"
+"http://en.wikipedia.org/wiki/Bullmastiff", kg, 59.0, Bullmastiff, 50.0
+"http://en.wikipedia.org/wiki/Bull_Terrier_(Miniature), lb, 35.0, Bull Terrier (Miniature), 20.0
+"http://en.wikipedia.org/wiki/Bull_Terrier", kg, 38.0, Bull Terrier, 22.0
+"http://en.wikipedia.org/wiki/Bully_Kutta, lb, 210.0, Bully Kutta, 140.0
+"http://en.wikipedia.org/wiki/%C3%89pagneul_Bleu_de_Picardie", kg, 20.0, Blue Picardy Spaniel, 20.0
+"http://en.wikipedia.org/wiki/%C5%A0arplaninac", kg, 55.0, \u0160arplaninac, 38.0
+"http://en.wikipedia.org/wiki/Cairn_Terrier", kg, 8.0, Cairn Terrier, 6.0
+"http://en.wikipedia.org/wiki/Canaan_Dog", kg, 25.0, Canaan Dog, 18.0
+"http://en.wikipedia.org/wiki/Canadian_Eskimo_Dog", kg, 40.0, Canadian Eskimo Dog, 30.0
+"http://en.wikipedia.org/wiki/Canadian_Pointer, lb, 60.0, Canadian Pointer, 45.0
+"http://en.wikipedia.org/wiki/Cane_Corso", kg, 50.0, Cane Corso, 40.0
+"http://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi", kg, 17.2, Cardigan Welsh Corgi, 13.6
+"http://en.wikipedia.org/wiki/Carolina_Dog", kg, 20.0, Carolina Dog, 15.0
+"http://en.wikipedia.org/wiki/Carpathian_Shepherd_Dog", kg, 45.0, Carpathian Shepherd Dog, 32.0
+"http://en.wikipedia.org/wiki/Catahoula_Cur", kg, 50.0, Catahoula Cur, 40.0
+"http://en.wikipedia.org/wiki/Catalan_Sheepdog", kg, 27.0, Catalan Sheepdog, 20.0
+"http://en.wikipedia.org/wiki/Caucasian_Shepherd_Dog", kg, 45.0, Caucasian Shepherd Dog"
+"http://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel", kg, 8.2, Cavalier King Charles Spaniel, 5.9
+"http://en.wikipedia.org/wiki/C%C3%A3o_da_Serra_de_Aires", kg, 18.0, C\u00e3o da Serra de Aires, 12.0
+"http://en.wikipedia.org/wiki/C%C3%A3o_de_Castro_Laboreiro", kg, 40.0, C\u00e3o de Castro Laboreiro"
+"http://en.wikipedia.org/wiki/C%C3%A3o_Fila_de_S%C3%A3o_Miguel", kg, 35.0, C\u00e3o Fila de S\u00e3o Miguel"
+"http://en.wikipedia.org/wiki/Central_Asian_Shepherd_Dog", Central Asian Shepherd Dog"
+"http://en.wikipedia.org/wiki/Cesky_Fousek", kg, 34.0, Cesky Fousek, 28.0
+"http://en.wikipedia.org/wiki/Cesky_Terrier", Cesky Terrier"
+"http://en.wikipedia.org/wiki/Chesapeake_Bay_Retriever", kg, 45.0, Chesapeake Bay Retriever, 34.0
+"http://en.wikipedia.org/wiki/Chien_Fran%C3%A7ais_Blanc_et_Noir", Chien Fran\u00e7ais Blanc et Noir"
+"http://en.wikipedia.org/wiki/Chien_Fran%C3%A7ais_Blanc_et_Orange", Chien Fran\u00e7ais Blanc et Orange"
+"http://en.wikipedia.org/wiki/Chien_Fran%C3%A7ais_Tricolore", Chien Fran\u00e7ais Tricolore"
+"http://en.wikipedia.org/wiki/Chien-gris", Chien-gris"
+"http://en.wikipedia.org/wiki/Chihuahua_(dog)", kg, 3.0, Chihuahua"
+"http://en.wikipedia.org/wiki/Chilean_Fox_Terrier", kg, 8.0, Chilean Fox Terrier, 5.0
+"http://en.wikipedia.org/wiki/Chinese_Chongqing_Dog", kg, 25.0, Chinese Chongqing Dog, 20.0
+"http://en.wikipedia.org/wiki/Chinese_Crested_Dog, lb, 13.0, Chinese Crested Dog, 10.0
+"http://en.wikipedia.org/wiki/Chinese_Imperial_Dog, lb, 9.0, Chinese Imperial Dog, 9.0
+"http://en.wikipedia.org/wiki/Chinook_(dog)", kg, 41.0, Chinook, 25.0
+"http://en.wikipedia.org/wiki/Chippiparai", Chippiparai"
+"http://en.wikipedia.org/wiki/Chow_Chow", kg, 32.0, Chow Chow, 25.0
+"http://en.wikipedia.org/wiki/Cierny_Sery", Cierny Sery"
+"http://en.wikipedia.org/wiki/Cimarr%C3%B3n_Uruguayo", Cimarr\u00f3n Uruguayo"
+"http://en.wikipedia.org/wiki/Cirneco_dell%27Etna", kg, 12.0, Cirneco dell'Etna, 10.0
+"http://en.wikipedia.org/wiki/Clumber_Spaniel", kg, 39.0, Clumber Spaniel, 25.0
+"http://en.wikipedia.org/wiki/Combai", Combai"
+"http://en.wikipedia.org/wiki/Cordoba_Fighting_Dog", Cordoba Fighting Dog"
+"http://en.wikipedia.org/wiki/Coton_de_Tulear", kg, 6.0, Coton de Tulear, 4.0
+"http://en.wikipedia.org/wiki/Cretan_Hound", kg, 30.0, Cretan Hound, 20.0
+"http://en.wikipedia.org/wiki/Croatian_Sheepdog", kg, 20.0, Croatian Sheepdog, 13.0
+"http://en.wikipedia.org/wiki/Cumberland_Sheepdog, lb, 50.0, Cumberland Sheepdog, 40.0
+"http://en.wikipedia.org/wiki/Curly_Coated_Retriever", Curly Coated Retriever"
+"http://en.wikipedia.org/wiki/Cursinu", Cursinu"
+"http://en.wikipedia.org/wiki/Czechoslovak_Wolfdog, lb, 57.0, Czechoslovakian Wolfdog"
+"http://en.wikipedia.org/wiki/Dachshund", kg, 18.0, Dachshund, 14.0
+"http://en.wikipedia.org/wiki/Dalmatian_(dog)", kg, 32.0, Dalmatian, 15.0
+"http://en.wikipedia.org/wiki/Dandie_Dinmont_Terrier", kg, 11.0, Dandie Dinmont Terrier, 8.2
+"http://en.wikipedia.org/wiki/Danish_Swedish_Farmdog", Danish Swedish Farmdog"
+"http://en.wikipedia.org/wiki/Deutsche_Bracke", Deutsche Bracke"
+"http://en.wikipedia.org/wiki/Doberman_Pinscher", kg, 45.0, Doberman Pinscher, 34.0
+"http://en.wikipedia.org/wiki/Dogo_Cubano, lb, 300.0, Dogo Cubano"
+"http://en.wikipedia.org/wiki/Dogo_Guatemalteco", Dogo Guatemalteco"
+"http://en.wikipedia.org/wiki/Dogo_Sardesco", Dogo Sardesco"
+"http://en.wikipedia.org/wiki/Dogue_de_Bordeaux, lb, 110.0, Dogue de Bordeaux, 3.0
+"http://en.wikipedia.org/wiki/Drentse_Patrijshond", Drentse Patrijshond"
+"http://en.wikipedia.org/wiki/Drever", Drever"
+"http://en.wikipedia.org/wiki/Dunker", kg, 22.0, Dunker, 16.0
+"http://en.wikipedia.org/wiki/Dutch_Shepherd_Dog", kg, 28.0, Dutch Shepherd Dog"
+"http://en.wikipedia.org/wiki/Dutch_Smoushond", Dutch Smoushond"
+"http://en.wikipedia.org/wiki/East-European_Shepherd", East-European Shepherd"
+"http://en.wikipedia.org/wiki/East_Siberian_Laika", East Siberian Laika"
+"http://en.wikipedia.org/wiki/Elo_(dog)", Elo"
+"http://en.wikipedia.org/wiki/English_Cocker_Spaniel", kg, 9.0, English Cocker Spaniel, 5.5
+"http://en.wikipedia.org/wiki/English_Coonhound", English Coonhound"
+"http://en.wikipedia.org/wiki/English_Foxhound, lb, 75.0, English Foxhound, 65.0
+"http://en.wikipedia.org/wiki/English_Mastiff", kg, 110.0, English Mastiff, 68.0
+"http://en.wikipedia.org/wiki/English_Setter", English Setter"
+"http://en.wikipedia.org/wiki/English_Shepherd", kg, 30.0, English Shepherd, 20.0
+"http://en.wikipedia.org/wiki/English_Springer_Spaniel", kg, 25.0, English Springer Spaniel, 23.0
+"http://en.wikipedia.org/wiki/English_Toy_Terrier_(Black_%26_Tan)", kg, 3.6, English Toy Terrier (Black &amp; Tan), 2.7
+"http://en.wikipedia.org/wiki/English_Water_Spaniel", English Water Spaniel"
+"http://en.wikipedia.org/wiki/English_White_Terrier, lb, 12.0, English White Terrier"
+"http://en.wikipedia.org/wiki/Entlebucher_Mountain_Dog", kg, 30.0, Entlebucher Mountain Dog, 25.5
+"http://en.wikipedia.org/wiki/Estonian_Hound", kg, 20.0, Estonian Hound, 15.0
+"http://en.wikipedia.org/wiki/Estrela_Mountain_Dog", Estrela Mountain Dog"
+"http://en.wikipedia.org/wiki/Eurasier", kg, 32.0, Eurasier, 23.0
+"http://en.wikipedia.org/wiki/Field_Spaniel", kg, 20.0, Field Spaniel, 16.0
+"http://en.wikipedia.org/wiki/Fila_Brasileiro", kg, 50.0, Fila Brasileiro"
+"http://en.wikipedia.org/wiki/Finnish_Hound, lb, 70.0, Finnish Hound, 45.0
+"http://en.wikipedia.org/wiki/Finnish_Lapphund", kg, 19.0, Finnish Lapphund, 17.0
+"http://en.wikipedia.org/wiki/Finnish_Spitz", kg, 24.0, Finnish Spitz, 21.0
+"http://en.wikipedia.org/wiki/Flat-Coated_Retriever", kg, 36.0, Flat-Coated Retriever, 27.0
+"http://en.wikipedia.org/wiki/Formosan_Mountain_Dog", kg, 18.0, Formosan Mountain Dog, 14.0
+"http://en.wikipedia.org/wiki/Fox_Terrier_(Smooth), lb, 18.0, Fox Terrier (Smooth)"
+"http://en.wikipedia.org/wiki/French_Brittany_(dog)", kg, 24.9, Brittany, 15.8
+"http://en.wikipedia.org/wiki/French_Bulldog", kg, 11.0, French Bulldog, 7.3
+"http://en.wikipedia.org/wiki/French_Spaniel", kg, 27.0, French Spaniel, 20.0
+"http://en.wikipedia.org/wiki/Galgo_Espa%C3%B1ol, lb, 65.0, Galgo Espa\u00f1ol, 60.0
+"http://en.wikipedia.org/wiki/Gascon_Saintongeois, lb, 71.0, Gascon Saintongeois, 66.0
+"http://en.wikipedia.org/wiki/German_Longhaired_Pointer", kg, 30.0, German Longhaired Pointer"
+"http://en.wikipedia.org/wiki/German_Pinscher, lb, 35.0, German Pinscher, 25.0
+"http://en.wikipedia.org/wiki/German_Shepherd_Dog", kg, 40.0, German Shepherd Dog, 30.0
+"http://en.wikipedia.org/wiki/German_Shorthaired_Pointer", German Shorthaired Pointer"
+"http://en.wikipedia.org/wiki/German_Spaniel", kg, 30.0, German Spaniel, 20.0
+"http://en.wikipedia.org/wiki/German_Spitz", kg, 18.5, German Spitz, 17.5
+"http://en.wikipedia.org/wiki/German_Wirehaired_Pointer", German Wirehaired Pointer"
+"http://en.wikipedia.org/wiki/Giant_Schnauzer", kg, 45.0, Giant Schnauzer, 32.0
+"http://en.wikipedia.org/wiki/Glen_of_Imaal_Terrier", Glen of Imaal Terrier"
+"http://en.wikipedia.org/wiki/Golden_Retriever", kg, 34.0, Golden Retriever, 29.0
+"http://en.wikipedia.org/wiki/Gordon_Setter, lb, 80.0, Gordon Setter, 27.0
+"http://en.wikipedia.org/wiki/Grand_Anglo-Fran%C3%A7ais_Blanc_et_Noir", Grand Anglo-Fran\u00e7ais Blanc et Noir"
+"http://en.wikipedia.org/wiki/Grand_Anglo-Fran%C3%A7ais_Blanc_et_Orange", Grand Anglo-Fran\u00e7ais Blanc et Orange"
+"http://en.wikipedia.org/wiki/Grand_Anglo-Fran%C3%A7ais_Tricolore", Grand Anglo-Fran\u00e7ais Tricolore"
+"http://en.wikipedia.org/wiki/Grand_Basset_Griffon_Vend%C3%A9en", Grand Basset Griffon Vend\u00e9en"
+"http://en.wikipedia.org/wiki/Grand_Bleu_de_Gascogne, lb, 120.0, Grand Bleu de Gascogne, 80.0
+"http://en.wikipedia.org/wiki/Grand_Griffon_Vend%C3%A9en", Grand Griffon Vend\u00e9en"
+"http://en.wikipedia.org/wiki/Gran_Mast%C3%ADn_de_Bor%C3%ADnquen", Gran Mast\u00edn de Bor\u00ednquen"
+"http://en.wikipedia.org/wiki/Great_Dane, lb, 120.0, Great Dane"
+"http://en.wikipedia.org/wiki/Greater_Swiss_Mountain_Dog", kg, 59.0, Greater Swiss Mountain Dog, 45.0
+"http://en.wikipedia.org/wiki/Great_Pyrenees", kg, 54.0, Great Pyrenees, 50.0
+"http://en.wikipedia.org/wiki/Greek_Harehound", kg, 20.0, Greek Harehound, 17.0
+"http://en.wikipedia.org/wiki/Greenland_Dog", Greenland Dog"
+"http://en.wikipedia.org/wiki/Greyhound", kg, 40.0, Greyhound, 27.0
+"http://en.wikipedia.org/wiki/Griffon_Bleu_de_Gascogne", Griffon Bleu de Gascogne"
+"http://en.wikipedia.org/wiki/Griffon_Bruxellois", Griffon Bruxellois"
+"http://en.wikipedia.org/wiki/Griffon_Fauve_de_Bretagne", Griffon Fauve de Bretagne"
+"http://en.wikipedia.org/wiki/Griffon_Nivernais", Griffon Nivernais"
+"http://en.wikipedia.org/wiki/Gull_Dong, lb, 200.0, Gull Dong, 120.0
+"http://en.wikipedia.org/wiki/Gull_Terr", Gull Terr"
+"http://en.wikipedia.org/wiki/Hamiltonst%C3%B6vare", Hamiltonst\u00f6vare"
+"http://en.wikipedia.org/wiki/Hanover_Hound", kg, 45.0, Hanover Hound, 36.0
+"http://en.wikipedia.org/wiki/Hare_Indian_Dog", Hare Indian Dog"
+"http://en.wikipedia.org/wiki/Harrier_(dog), lb, 60.0, Harrier, 45.0
+"http://en.wikipedia.org/wiki/Havanese", kg, 5.5, Havanese, 3.0
+"http://en.wikipedia.org/wiki/Hawaiian_Poi_Dog", Hawaiian Poi Dog"
+"http://en.wikipedia.org/wiki/Himalayan_Sheepdog", kg, 38.0, Himalayan Sheepdog, 28.0
+"http://en.wikipedia.org/wiki/Hokkaido_(dog)", kg, 20.0, Hokkaido"
+"http://en.wikipedia.org/wiki/Hortaya_Borzaya", kg, 18.0, Hortaya borzaya"
+"http://en.wikipedia.org/wiki/Hovawart", kg, 40.0, Hovawart, 25.0
+"http://en.wikipedia.org/wiki/Hungarian_Hound, lb, 77.0, Transylvanian Hound, 66.0
+"http://en.wikipedia.org/wiki/Hygenhund", kg, 25.0, Hygenhund, 20.0
+"http://en.wikipedia.org/wiki/Ibizan_Hound", kg, 29.0, Ibizan Hound, 20.0
+"http://en.wikipedia.org/wiki/Icelandic_Sheepdog", Icelandic Sheepdog"
+"http://en.wikipedia.org/wiki/Indian_Spitz, lb, 10.0, Indian Spitz"
+"http://en.wikipedia.org/wiki/Irish_Red_and_White_Setter", kg, 32.0, Irish Red and White Setter, 23.0
+"http://en.wikipedia.org/wiki/Irish_Setter", kg, 32.0, Irish Setter, 27.0
+"http://en.wikipedia.org/wiki/Irish_Terrier", kg, 12.0, Irish Terrier, 11.0
+"http://en.wikipedia.org/wiki/Irish_Water_Spaniel", kg, 30.0, Irish Water Spaniel, 25.0
+"http://en.wikipedia.org/wiki/Irish_Wolfhound", Irish Wolfhound"
+"http://en.wikipedia.org/wiki/Istrian_Coarse-haired_Hound", kg, 26.0, Istrian Coarse-haired Hound, 16.0
+"http://en.wikipedia.org/wiki/Istrian_Shorthaired_Hound", kg, 18.0, Istrian Shorthaired Hound"
+"http://en.wikipedia.org/wiki/Italian_Greyhound", kg, 8.2, Italian Greyhound, 3.6
+"http://en.wikipedia.org/wiki/Jack_Russell_Terrier", kg, 8.2, Jack Russell Terrier, 6.4
+"http://en.wikipedia.org/wiki/Jagdterrier", kg, 8.5, Jagdterrier, 7.5
+"http://en.wikipedia.org/wiki/Japanese_Chin, lb, 3.0, Japanese Chin"
+"http://en.wikipedia.org/wiki/Japanese_Spitz", Japanese Spitz"
+"http://en.wikipedia.org/wiki/Japanese_Terrier, lb, 9.0, Japanese Terrier, 5.0
+"http://en.wikipedia.org/wiki/J%C3%A4mthund", kg, 35.0, J\u00e4mthund, 30.0
+"http://en.wikipedia.org/wiki/Jonangi", Jonangi"
+"http://en.wikipedia.org/wiki/Kaikadi_(dog)", Kaikadi"
+"http://en.wikipedia.org/wiki/Kai_Ken", Kai Ken"
+"http://en.wikipedia.org/wiki/Kangal_Dog", kg, 80.0, Kangal Dog, 45.0
+"http://en.wikipedia.org/wiki/Kanni", Kanni"
+"http://en.wikipedia.org/wiki/Karakachan_Dog", kg, 55.0, Karakachan Dog, 40.0
+"http://en.wikipedia.org/wiki/Karelian_Bear_Dog", Karelian Bear Dog"
+"http://en.wikipedia.org/wiki/Karst_Shepherd", kg, 37.0, Karst Shepherd, 25.0
+"http://en.wikipedia.org/wiki/Keeshond, lb, 35.0, Keeshond, 9.0
+"http://en.wikipedia.org/wiki/Kerry_Beagle", kg, 27.0, Kerry Beagle"
+"http://en.wikipedia.org/wiki/Kerry_Blue_Terrier, lb, 40.0, Kerry Blue Terrier, 33.0
+"http://en.wikipedia.org/wiki/King_Charles_Spaniel", kg, 6.4, King Charles Spaniel, 3.6
+"http://en.wikipedia.org/wiki/King_Shepherd", kg, 68.0, King Shepherd, 41.0
+"http://en.wikipedia.org/wiki/Kintamani_(dog)", Kintamani"
+"http://en.wikipedia.org/wiki/Kishu, lb, 60.0, Kishu, 30.0
+"http://en.wikipedia.org/wiki/Komondor", kg, 50.0, Komondor, 40.0
+"http://en.wikipedia.org/wiki/Kooikerhondje", kg, 11.0, Kooikerhondje, 9.0
+"http://en.wikipedia.org/wiki/Koolie", Koolie"
+"http://en.wikipedia.org/wiki/Korean_Jindo_Dog, lb, 60.0, Korean Jindo Dog, 40.0
+"http://en.wikipedia.org/wiki/Korean_Mastiff", Korean Mastiff"
+"http://en.wikipedia.org/wiki/Kromfohrl%C3%A4nder", kg, 10.0, Kromfohrl\u00e4nder"
+"http://en.wikipedia.org/wiki/Kunming_Wolfdog", kg, 38.0, Kunming Wolfdog, 30.0
+"http://en.wikipedia.org/wiki/Kur%C4%AB", Kur\u012b"
+"http://en.wikipedia.org/wiki/Kuvasz", kg, 90.0, Kuvasz, 45.0
+"http://en.wikipedia.org/wiki/Kyi-Leo, lb, 14.0, Kyi-Leo, 9.0
+"http://en.wikipedia.org/wiki/Labrador_Husky, lb, 100.0, Labrador Husky, 60.0
+"http://en.wikipedia.org/wiki/Labrador_Retriever", kg, 40.0, Labrador Retriever, 27.0
+"http://en.wikipedia.org/wiki/Lagotto_Romagnolo", kg, 16.0, Lagotto Romagnolo, 13.0
+"http://en.wikipedia.org/wiki/Lakeland_Terrier", kg, 8.0, Lakeland Terrier, 7.0
+"http://en.wikipedia.org/wiki/Lancashire_Heeler", kg, 5.9, Lancashire Heeler, 2.7
+"http://en.wikipedia.org/wiki/Landseer_(dog)", kg, 80.0, Landseer, 65.0
+"http://en.wikipedia.org/wiki/Lapponian_Herder, lb, 70.0, Lapponian Herder"
+"http://en.wikipedia.org/wiki/Large_M%C3%BCnsterl%C3%A4nder", kg, 30.0, Large M\u00fcnsterl\u00e4nder"
+"http://en.wikipedia.org/wiki/L%C3%B6wchen", kg, 8.1, L\u00f6wchen, 5.4
+"http://en.wikipedia.org/wiki/Leonberger", kg, 76.0, Leonberger, 45.0
+"http://en.wikipedia.org/wiki/Lhasa_Apso", kg, 8.0, Lhasa Apso, 6.0
+"http://en.wikipedia.org/wiki/Lithuanian_Hound", Lithuanian Hound"
+"http://en.wikipedia.org/wiki/Longhaired_Whippet, lb, 30.0, Longhaired Whippet, 25.0
+"http://en.wikipedia.org/wiki/Magyar_Ag%C3%A1r, lb, 49.0, Magyar ag\u00e1r"
+"http://en.wikipedia.org/wiki/Maltese_(dog)", kg, 5.4, Maltese, 2.3
+"http://en.wikipedia.org/wiki/Manchester_Terrier", kg, 10.0, Manchester Terrier, 5.4
+"http://en.wikipedia.org/wiki/Maremma_Sheepdog", kg, 45.0, Maremma Sheepdog, 35.0
+"http://en.wikipedia.org/wiki/McNab_(dog), lb, 70.0, McNab"
+"http://en.wikipedia.org/wiki/Mexican_Hairless_Dog", kg, 20.0, Mexican Hairless Dog, 4.0
+"http://en.wikipedia.org/wiki/Miniature_Australian_Shepherd", kg, 14.0, Miniature Australian Shepherd, 9.0
+"http://en.wikipedia.org/wiki/Miniature_Fox_Terrier", Miniature Fox Terrier"
+"http://en.wikipedia.org/wiki/Miniature_Pinscher, lb, 10.0, Miniature Pinscher, 8.0
+"http://en.wikipedia.org/wiki/Miniature_Schnauzer", kg, 9.1, Miniature Schnauzer, 5.4
+"http://en.wikipedia.org/wiki/Mioritic", kg, 65.0, Mioritic, 50.0
+"http://en.wikipedia.org/wiki/Molossus_(dog)", Molossus"
+"http://en.wikipedia.org/wiki/Montenegrin_Mountain_Hound", kg, 25.0, Montenegrin Mountain Hound, 20.0
+"http://en.wikipedia.org/wiki/Moscow_Watchdog", Moscow Watchdog"
+"http://en.wikipedia.org/wiki/Moscow_Water_Dog", Moscow Water Dog"
+"http://en.wikipedia.org/wiki/Mountain_Cur", Mountain Cur"
+"http://en.wikipedia.org/wiki/Mountain_View_Cur", Mountain View Cur"
+"http://en.wikipedia.org/wiki/Mucuchies", kg, 50.0, Mucuchies, 30.0
+"http://en.wikipedia.org/wiki/Mudhol_Hound", Mudhol Hound"
+"http://en.wikipedia.org/wiki/Mudi", kg, 13.0, Mudi, 8.2
+"http://en.wikipedia.org/wiki/Murray_River_Curly_Coated_Retriever", kg, 5.0, Murray River Curly Coated Retriever"
+"http://en.wikipedia.org/wiki/Neapolitan_Mastiff", kg, 60.0, Neapolitan Mastiff, 50.0
+"http://en.wikipedia.org/wiki/Newfoundland_(dog)", kg, 80.0, Newfoundland, 75.0
+"http://en.wikipedia.org/wiki/New_Zealand_Huntaway", kg, 29.5, New Zealand Huntaway, 18.0
+"http://en.wikipedia.org/wiki/Norfolk_Spaniel", Norfolk Spaniel"
+"http://en.wikipedia.org/wiki/Norfolk_Terrier", kg, 5.4, Norfolk Terrier, 5.0
+"http://en.wikipedia.org/wiki/Norrbottenspets", kg, 15.0, Norrbottenspets, 11.0
+"http://en.wikipedia.org/wiki/North_Country_Beagle", North Country Beagle"
+"http://en.wikipedia.org/wiki/Northern_Inuit_Dog", Northern Inuit Dog"
+"http://en.wikipedia.org/wiki/Norwegian_Buhund, lb, 40.0, Norwegian Buhund, 31.0
+"http://en.wikipedia.org/wiki/Norwegian_Elkhound", kg, 27.0, Norwegian Elkhound, 18.0
+"http://en.wikipedia.org/wiki/Norwegian_Lundehund", kg, 7.0, Norwegian Lundehund, 5.9
+"http://en.wikipedia.org/wiki/Norwich_Terrier", kg, 5.5, Norwich Terrier, 5.0
+"http://en.wikipedia.org/wiki/Nova_Scotia_Duck-Tolling_Retriever", kg, 23.0, Nova Scotia Duck Tolling Retriever, 20.0
+"http://en.wikipedia.org/wiki/Old_Croatian_Sighthound", Old Croatian Sighthound"
+"http://en.wikipedia.org/wiki/Old_Danish_Pointer", kg, 35.0, Old Danish Pointer, 30.0
+"http://en.wikipedia.org/wiki/Olde_English_Bulldogge", kg, 36.0, Olde English Bulldogge, 27.0
+"http://en.wikipedia.org/wiki/Old_English_Bulldog, lb, 45.0, Old English Bulldog"
+"http://en.wikipedia.org/wiki/Old_English_Sheepdog", kg, 46.0, Old English Sheepdog"
+"http://en.wikipedia.org/wiki/Old_English_Terrier, lb, 35.0, Old English Terrier, 14.0
+"http://en.wikipedia.org/wiki/Old_German_Shepherd_Dog", kg, 40.0, Old German Shepherd Dog, 22.0
+"http://en.wikipedia.org/wiki/Old_time_farm_shepherd, lb, 60.0, Old Time Farm Shepherd, 45.0
+"http://en.wikipedia.org/wiki/Otterhound", kg, 54.0, Otterhound, 36.0
+"http://en.wikipedia.org/wiki/Pachon_Navarro", kg, 33.0, Pachon Navarro, 27.0
+"http://en.wikipedia.org/wiki/Paisley_Terrier", kg, 7.0, Paisley Terrier"
+"http://en.wikipedia.org/wiki/Papillon_(dog)", kg, 5.0, Papillon, 3.0
+"http://en.wikipedia.org/wiki/Parson_Russell_Terrier", kg, 7.7, Parson Russell Terrier, 5.9
+"http://en.wikipedia.org/wiki/Patterdale_Terrier", kg, 5.5, Patterdale Terrier"
+"http://en.wikipedia.org/wiki/Pekingese", kg, 6.4, Pekingese, 3.2
+"http://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi", kg, 14.0, Pembroke Welsh Corgi, 12.0
+"http://en.wikipedia.org/wiki/Perro_de_Presa_Canario, lb, 100.0, Perro de Presa Canario"
+"http://en.wikipedia.org/wiki/Perro_de_Presa_Mallorquin", kg, 40.0, Perro de Presa Mallorquin, 19.0
+"http://en.wikipedia.org/wiki/Peruvian_Hairless_Dog", kg, 8.0, Peruvian Hairless Dog, 4.0
+"http://en.wikipedia.org/wiki/Petit_Basset_Griffon_Vend%C3%A9en", kg, 20.0, Petit Basset Griffon Vend\u00e9en, 15.0
+"http://en.wikipedia.org/wiki/Petit_Bleu_de_Gascogne", Petit Bleu de Gascogne"
+"http://en.wikipedia.org/wiki/Phal%C3%A8ne", Phal\u00e8ne"
+"http://en.wikipedia.org/wiki/Pharaoh_Hound, lb, 60.0, Pharaoh Hound, 40.0
+"http://en.wikipedia.org/wiki/Phu_Quoc_ridgeback_dog", Phu Quoc ridgeback dog"
+"http://en.wikipedia.org/wiki/Picardy_Spaniel", kg, 25.0, Picardy Spaniel, 20.0
+"http://en.wikipedia.org/wiki/Plott_Hound", kg, 27.0, Plott Hound, 23.0
+"http://en.wikipedia.org/wiki/Podenco_Canario", Podenco Canario"
+"http://en.wikipedia.org/wiki/Pointer_(dog_breed)", kg, 34.0, Pointer (dog breed), 25.0
+"http://en.wikipedia.org/wiki/Polish_Greyhound, lb, 95.0, Polish Greyhound, 65.0
+"http://en.wikipedia.org/wiki/Polish_Hound, lb, 70.0, Polish Hound, 50.0
+"http://en.wikipedia.org/wiki/Polish_Hunting_Dog", Polish Hunting Dog"
+"http://en.wikipedia.org/wiki/Polish_Lowland_Sheepdog, lb, 50.0, Polish Lowland Sheepdog, 40.0
+"http://en.wikipedia.org/wiki/Polish_Tatra_Sheepdog", kg, 60.0, Polish Tatra Sheepdog, 45.0
+"http://en.wikipedia.org/wiki/Pomeranian_(dog)", kg, 3.5, Pomeranian, 1.9
+"http://en.wikipedia.org/wiki/Pont-Audemer_Spaniel", kg, 27.0, Pont-Audemer Spaniel, 20.0
+"http://en.wikipedia.org/wiki/Poodle", Poodle"
+"http://en.wikipedia.org/wiki/Porcelaine", kg, 28.0, Porcelaine, 25.0
+"http://en.wikipedia.org/wiki/Portuguese_Podengo", kg, 6.0, Portuguese Podengo, 4.0
+"http://en.wikipedia.org/wiki/Portuguese_Pointer", kg, 27.0, Portuguese Pointer, 20.0
+"http://en.wikipedia.org/wiki/Portuguese_Water_Dog", kg, 27.0, Portuguese Water Dog, 18.0
+"http://en.wikipedia.org/wiki/Posavac_Hound", Posavaz Hound"
+"http://en.wikipedia.org/wiki/Pra%C5%BEsk%C3%BD_Krysa%C5%99%C3%ADk, kg, Pra\u017esk\u00fd Krysa\u0159\u00edk"
+"http://en.wikipedia.org/wiki/Pudelpointer", kg, 30.0, Pudelpointer, 20.0
+"http://en.wikipedia.org/wiki/Pug", Pug"
+"http://en.wikipedia.org/wiki/Puli, lb, 25.0, Puli, 23.0
+"http://en.wikipedia.org/wiki/Pumi_(dog)", kg, 15.0, Pumi, 10.0
+"http://en.wikipedia.org/wiki/Pungsan_Dog", Pungsan Dog"
+"http://en.wikipedia.org/wiki/Pyrenean_Mastiff, lb, 180.0, Pyrenean Mastiff, 2.0
+"http://en.wikipedia.org/wiki/Pyrenean_Shepherd", kg, 15.0, Pyrenean Shepherd, 7.0
+"http://en.wikipedia.org/wiki/Rafeiro_do_Alentejo", kg, 47.5, Rafeiro do Alentejo"
+"http://en.wikipedia.org/wiki/Rajapalayam_(dog)", Rajapalayam"
+"http://en.wikipedia.org/wiki/Rampur_Greyhound", kg, 30.0, Rampur Greyhound, 27.0
+"http://en.wikipedia.org/wiki/Rastreador_Brasileiro", Rastreador Brasileiro"
+"http://en.wikipedia.org/wiki/Ratonero_Bodeguero_Andaluz", Ratonero Bodeguero Andaluz"
+"http://en.wikipedia.org/wiki/Rat_Terrier, lb, 25.0, Rat Terrier, 10.0
+"http://en.wikipedia.org/wiki/Redbone_Coonhound", kg, 31.75, Redbone Coonhound, 20.5
+"http://en.wikipedia.org/wiki/Rhodesian_Ridgeback, lb, 85.0, Rhodesian Ridgeback"
+"http://en.wikipedia.org/wiki/Rottweiler", kg, 58.0, Rottweiler, 50.0
+"http://en.wikipedia.org/wiki/Rough_Collie", kg, 34.0, Rough Collie, 20.0
+"http://en.wikipedia.org/wiki/Russell_Terrier", kg, 1.0, Russell Terrier"
+"http://en.wikipedia.org/wiki/Russian_Spaniel", kg, 16.0, Russian Spaniel, 9.1
+"http://en.wikipedia.org/wiki/Russian_Toy, lb, 3.0, Russkiy Toy"
+"http://en.wikipedia.org/wiki/Russo-European_Laika", Russo-European Laika"
+"http://en.wikipedia.org/wiki/Saarlooswolfhond", kg, 40.0, Saarlooswolfhond, 76.0
+"http://en.wikipedia.org/wiki/Sabueso_Espa%C3%B1ol", Sabueso Espa\u00f1ol"
+"http://en.wikipedia.org/wiki/Saint-Usuge_Spaniel", Saint-Usuge Spaniel"
+"http://en.wikipedia.org/wiki/Sakhalin_Husky", Sakhalin Husky"
+"http://en.wikipedia.org/wiki/Saluki", kg, 27.0, Saluki, 18.0
+"http://en.wikipedia.org/wiki/Samoyed_(dog)", kg, 30.0, Samoyed, 23.0
+"http://en.wikipedia.org/wiki/Sapsali", kg, 28.0, Sapsali, 18.0
+"http://en.wikipedia.org/wiki/Schapendoes", kg, 25.0, Schapendoes"
+"http://en.wikipedia.org/wiki/Schillerst%C3%B6vare", kg, 25.0, Schillerst\u00f6vare, 18.0
+"http://en.wikipedia.org/wiki/Schipperke", kg, 9.0, Schipperke, 3.0
+"http://en.wikipedia.org/wiki/Schweizerischer_Niederlaufhund", Schweizerischer Niederlaufhund"
+"http://en.wikipedia.org/wiki/Schweizer_Laufhund", Schweizer Laufhund"
+"http://en.wikipedia.org/wiki/Scotch_Collie", Scotch Collie"
+"http://en.wikipedia.org/wiki/Scottish_Deerhound, lb, 110.0, Scottish Deerhound, 85.0
+"http://en.wikipedia.org/wiki/Scottish_Terrier", kg, 10.0, Scottish Terrier, 8.5
+"http://en.wikipedia.org/wiki/Sealyham_Terrier, lb, 25.0, Sealyham Terrier, 23.0
+"http://en.wikipedia.org/wiki/Segugio_Italiano", kg, 23.0, Segugio Italiano, 20.0
+"http://en.wikipedia.org/wiki/Seppala_Siberian_Sleddog", kg, 23.0, Seppala Siberian Sleddog, 18.0
+"http://en.wikipedia.org/wiki/Serbian_Hound", kg, 20.0, Serbian Hound, 44.0
+"http://en.wikipedia.org/wiki/Serbian_Tricolour_Hound", kg, 25.0, Serbian Tricolour Hound, 20.0
+"http://en.wikipedia.org/wiki/Shar_Pei", kg, 29.0, Shar Pei, 18.0
+"http://en.wikipedia.org/wiki/Shetland_Sheepdog", kg, 14.0, Shetland Sheepdog, 5.0
+"http://en.wikipedia.org/wiki/Shiba_Inu, lb, 23.0, Shiba Inu"
+"http://en.wikipedia.org/wiki/Shih_Tzu", kg, 7.25, Shih Tzu, 4.0
+"http://en.wikipedia.org/wiki/Shikoku_(dog)", Shikoku"
+"http://en.wikipedia.org/wiki/Shiloh_Shepherd_Dog", kg, 65.0, Shiloh Shepherd Dog, 54.0
+"http://en.wikipedia.org/wiki/Siberian_Husky", kg, 34.0, Siberian Husky, 23.0
+"http://en.wikipedia.org/wiki/Silken_Windhound", Silken Windhound"
+"http://en.wikipedia.org/wiki/Sinhala_Hound", Sinhala Hound"
+"http://en.wikipedia.org/wiki/Skye_Terrier", Skye Terrier"
+"http://en.wikipedia.org/wiki/Sloughi", Sloughi"
+"http://en.wikipedia.org/wiki/Slovak_Cuvac", kg, 44.0, Slovak Cuvac, 36.0
+"http://en.wikipedia.org/wiki/Slovakian_Rough-haired_Pointer", Slovakian Rough-haired Pointer"
+"http://en.wikipedia.org/wiki/Slovensk%C3%BD_Kopov", kg, 16.0, Slovensk\u00fd kopov"
+"http://en.wikipedia.org/wiki/Small_Greek_Domestic_Dog, lb, 25.0, Small Greek Domestic Dog, 20.0
+"http://en.wikipedia.org/wiki/Small_M%C3%BCnsterl%C3%A4nder, lb, 35.0, Small M\u00fcnsterl\u00e4nder"
+"http://en.wikipedia.org/wiki/Sm%C3%A5landsst%C3%B6vare", kg, 20.0, Sm\u00e5landsst\u00f6vare, 15.0
+"http://en.wikipedia.org/wiki/Smooth_Collie", kg, 34.0, Smooth Collie, 23.0
+"http://en.wikipedia.org/wiki/Soft-Coated_Wheaten_Terrier, lb, 45.0, Soft-Coated Wheaten Terrier, 35.0
+"http://en.wikipedia.org/wiki/Southern_Hound", Southern Hound"
+"http://en.wikipedia.org/wiki/South_Russian_Ovcharka", South Russian Ovcharka"
+"http://en.wikipedia.org/wiki/Spanish_Mastiff", kg, 65.0, Spanish Mastiff, 50.0
+"http://en.wikipedia.org/wiki/Spanish_Water_Dog", kg, 22.0, Spanish Water Dog, 18.0
+"http://en.wikipedia.org/wiki/Spinone_Italiano", kg, 39.0, Spinone Italiano, 34.0
+"http://en.wikipedia.org/wiki/Sporting_Lucas_Terrier, lb, 15.0, Sporting Lucas Terrier"
+"http://en.wikipedia.org/wiki/Stabyhoun", kg, 25.0, Stabyhoun, 23.0
+"http://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier", kg, 18.0, Staffordshire Bull Terrier, 14.0
+"http://en.wikipedia.org/wiki/Standard_Schnauzer", kg, 23.0, Standard Schnauzer, 16.0
+"http://en.wikipedia.org/wiki/St._Bernard_(dog)", kg, 120.0, St. Bernard, 64.0
+"http://en.wikipedia.org/wiki/Stephens_Cur, lb, 55.0, Stephens Cur"
+"http://en.wikipedia.org/wiki/St._John%27s_Water_Dog", St. John's Water Dog"
+"http://en.wikipedia.org/wiki/Styrian_Coarse-haired_Hound", kg, 18.0, Styrian Coarse-haired Hound, 15.0
+"http://en.wikipedia.org/wiki/Sussex_Spaniel", kg, 20.0, Sussex Spaniel, 16.0
+"http://en.wikipedia.org/wiki/Swedish_Lapphund", Swedish Lapphund"
+"http://en.wikipedia.org/wiki/Swedish_Vallhund", kg, 14.0, Swedish Vallhund, 9.0
+"http://en.wikipedia.org/wiki/Tahltan_Bear_Dog", Tahltan Bear Dog"
+"http://en.wikipedia.org/wiki/Taigan", Taigan"
+"http://en.wikipedia.org/wiki/Talbot_(dog)", Talbot"
+"http://en.wikipedia.org/wiki/Tamaskan_Dog", kg, 43.0, Tamaskan Dog, 29.0
+"http://en.wikipedia.org/wiki/Teddy_Roosevelt_Terrier, lb, 25.0, Teddy Roosevelt Terrier"
+"http://en.wikipedia.org/wiki/Telomian, lb, 28.0, Telomian, 18.0
+"http://en.wikipedia.org/wiki/Tennessee_Treeing_Brindle", kg, 23.0, Treeing Tennessee Brindle, 16.0
+"http://en.wikipedia.org/wiki/Tenterfield_Terrier", kg, 5.0, Tenterfield Terrier"
+"http://en.wikipedia.org/wiki/Thai_Bangkaew_Dog", Thai Bangkaew Dog"
+"http://en.wikipedia.org/wiki/Thai_Ridgeback", Thai Ridgeback"
+"http://en.wikipedia.org/wiki/Tibetan_Mastiff", kg, 130.0, Tibetan Mastiff"
+"http://en.wikipedia.org/wiki/Tibetan_Spaniel", kg, 6.8, Tibetan Spaniel, 4.1
+"http://en.wikipedia.org/wiki/Tibetan_Terrier", kg, 14.0, Tibetan Terrier, 8.0
+"http://en.wikipedia.org/wiki/Tornjak", Tornjak"
+"http://en.wikipedia.org/wiki/Tosa_(dog)", kg, 54.0, Tosa, 36.0
+"http://en.wikipedia.org/wiki/Toy_Bulldog, lb, 8.0, Toy Bulldog"
+"http://en.wikipedia.org/wiki/Toy_Fox_Terrier, lb, 9.0, Toy Fox Terrier, 3.5
+"http://en.wikipedia.org/wiki/Toy_Manchester_Terrier", kg, 1.0, Toy Manchester Terrier"
+"http://en.wikipedia.org/wiki/Toy_Trawler_Spaniel, lb, 15.0, Toy Trawler Spaniel"
+"http://en.wikipedia.org/wiki/Transylvanian_Hound, lb, 77.0, Transylvanian Hound, 66.0
+"http://en.wikipedia.org/wiki/Treeing_Cur, lb, 30.0, Treeing Cur, 3.0
+"http://en.wikipedia.org/wiki/Treeing_Walker_Coonhound", Treeing Walker Coonhound"
+"http://en.wikipedia.org/wiki/Trigg_Hound", kg, 25.0, Trigg Hound, 20.0
+"http://en.wikipedia.org/wiki/Tweed_Water_Spaniel", Tweed Water Spaniel"
+"http://en.wikipedia.org/wiki/Tyrolean_Hound", Tyrolean Hound"
+"http://en.wikipedia.org/wiki/Utonagan", Utonagan"
+"http://en.wikipedia.org/wiki/Vizsla", kg, 25.0, Vizsla, 18.0
+"http://en.wikipedia.org/wiki/Volpino_Italiano", Volpino Italiano"
+"http://en.wikipedia.org/wiki/Weimaraner", kg, 37.0, Weimaraner, 32.0
+"http://en.wikipedia.org/wiki/Welsh_Sheepdog", kg, 20.0, Welsh Sheepdog, 18.0
+"http://en.wikipedia.org/wiki/Welsh_Springer_Spaniel", kg, 20.0, Welsh Springer Spaniel, 16.0
+"http://en.wikipedia.org/wiki/Welsh_Terrier", kg, 10.0, Welsh Terrier, 9.0
+"http://en.wikipedia.org/wiki/West_Highland_White_Terrier", kg, 9.1, West Highland White Terrier, 6.8
+"http://en.wikipedia.org/wiki/Westphalian_Dachsbracke", Westphalian Dachsbracke"
+"http://en.wikipedia.org/wiki/West_Siberian_Laika", West Siberian Laika"
+"http://en.wikipedia.org/wiki/Wetterhoun, lb, 77.0, Wetterhoun, 55.0
+"http://en.wikipedia.org/wiki/Whippet", kg, 14.0, Whippet, 6.8
+"http://en.wikipedia.org/wiki/White_English_Bulldog", White English Bulldog"
+"http://en.wikipedia.org/wiki/White_Shepherd_Dog", White Shepherd Dog"
+"http://en.wikipedia.org/wiki/Wire_Fox_Terrier", kg, 9.5, Wire Fox Terrier, 7.0
+"http://en.wikipedia.org/wiki/Wirehaired_Pointing_Griffon", Wirehaired Pointing Griffon
+"http://en.wikipedia.org/wiki/Wirehaired_Vizsla", kg, 25.0, Wirehaired Vizsla, 18.0
+"http://en.wikipedia.org/wiki/Yorkshire_Terrier, lb, 3.0, Yorkshire Terrier
