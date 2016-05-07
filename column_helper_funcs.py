@@ -4,6 +4,28 @@ def filter_only_dogs(data_frame):
 def filter_only_cats(data_frame):
     return data_frame.loc[data_frame["AnimalType"] == "Cat"]
 
+def to_neutered(sex_upon_outcome):
+    if "Intact" in sex_upon_outcome:
+        return "Intact"
+    elif "Neutered" in sex_upon_outcome or \
+         "Spayed" in sex_upon_outcome:
+        return "Neutered"
+    else:
+        return "Unknown"
+
+def to_neutered_series ( sex_upon_outcome_series ):
+    return sex_upon_outcome_series.apply(to_neutered)
+
+def to_sex(sex_upon_outcome):
+    if "Male" in sex_upon_outcome:
+        return "Male"
+    elif "Female" in sex_upon_outcome:
+        return "Female"
+    else:
+        return "Unknown"
+
+def to_sex_series ( sex_upon_outcome_series ):
+    return sex_upon_outcome_series.apply(to_sex)
 
 def to_no_name_vec(name_vec):
     return name_vec.apply(lambda x: not x)
