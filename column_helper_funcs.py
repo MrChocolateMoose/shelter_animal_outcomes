@@ -1,3 +1,5 @@
+import pandas as pd
+
 def filter_only_dogs(data_frame):
     return data_frame.loc[data_frame["AnimalType"] == "Dog"]
 
@@ -72,8 +74,13 @@ def clip_below_threshold (val, max, pct):
     else:
         return -1
 
-def to_age_in_days_vec ( age_vec ):
-    return age_vec.apply(to_age_in_days)
+
+def to_life_ratio_series ( age_series, max_life_series ):
+    return (age_series / 365.0) / max_life_series
+
+
+def to_age_in_days_series ( age_upon_outcome_series ):
+    return age_upon_outcome_series.apply(to_age_in_days)
 
 def to_age_in_days ( age_str ):
     # non-string or empty str
@@ -121,3 +128,22 @@ def to_season( date_time ):
     else:
         return 4
 
+
+class FirstNameDataFrame:
+
+    def __init__(self):
+        males = pd.read_csv("data/dist.male.first", delim_whitespace=True)
+        females = pd.read_csv("data/dist.female.first", delim_whitespace=True)
+
+        self.first_name_data_frame =  pd.concat([males, females])
+        #print(self.first_name_data_frame)
+
+    def is_valid_name(self, name):
+        is_valid_name = name.upper() in self.first_name_data_frame["NAME"].values
+
+        return is_valid_name
+
+
+first_name_data_frame = FirstNameDataFrame()
+def to_is_valid_name_vec(name_vec):
+    return name_vec.apply(lambda x: first_name_data_frame.is_valid_name(x))
